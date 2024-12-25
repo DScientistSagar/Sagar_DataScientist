@@ -31,5 +31,11 @@
     2.vstack and hstack performed,
     3.Perform Train and Test Split    
           
+**Created Model and train data - (By Sagar Divekar) 
+      Logistic Regression - Precision - 0.70 ,Recall - 0.88 , F1 score - 0.78 , Accuracy - 0.72
+      Naive bayes -  Precision - 0.62 , Recall - 0.87 , F1 score - 0.72 , Accuracy - 0.62
+      Randon Forest - Precision - 0.73 , Recall - 0.87 , F1 score - 0.79 , Accuracy - 0.74
 
+    Random Forest gives best accuracy so used Randon Forest for Prediction
+    converted into 'submission.csv'
 
