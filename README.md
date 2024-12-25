@@ -24,3 +24,18 @@ Data Cleaning-
     Remove url ,  
     Applied lemmatization  
 
+
+
+
+
+
+
+
+
+
+
+Data to train Model - 
+          Stack the feature together ,
+          vstack and hstack performed,
+          Perform Train and Test Split    
+
