@@ -15,3 +15,12 @@ EDA-
           -replace nan value in keyword column: 
               -apply label encoder.
               -drop keyword column.
+
+Data Cleaning-
+    Replacing NaN values from 'keyword' 
+    Data Cleaning - Removed Stopwords , 
+    Text Lower, 
+    Removed Punctuation 
+    Remove url ,  
+    Applied lemmatization  
+
